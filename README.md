@@ -1,2 +1,2 @@
 # andorra
-Migration of andorra library to SWI-Prolog
+Migration of andorra library from Ciao-Prolog to SWI-Prolog
